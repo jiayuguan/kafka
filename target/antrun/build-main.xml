@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <echo message="project home:        /Users/shen_antonio/Documents/workspace/ifs/ifs-all/ifs-service-parent/ifs-service-kafka"/>
+  <echo message="java home:           /Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre"/>
+  <echo message="java source version: 1.8.0_102"/>
+  <echo message="java target version: 1.8.0_102"/>
+  <echo message="java source charset: ${java.encoding}"/>
+  <delete includeemptydirs="true">
+    <fileset dir="/Users/shen_antonio/Documents/workspace/ifs/ifs-all/ifs-service-parent/ifs-service-kafka/target/generated-sources" erroronmissingdir="false">
+      <type type="dir"/>
+    </fileset>
+  </delete>
+</target>
+</project>

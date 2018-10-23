@@ -1,0 +1,6 @@
+com/ruimin/ifs/service/kafka/KafkaProducer$1.class
+com/ruimin/ifs/service/kafka/test/KafkaTestCase.class
+com/ruimin/ifs/service/kafka/KafkaConsumer.class
+com/ruimin/ifs/service/kafka/KafkaProducer$2.class
+com/ruimin/ifs/service/kafka/KafkaProducer.class
+com/ruimin/ifs/service/kafka/boot/ApplicationBoot.class
